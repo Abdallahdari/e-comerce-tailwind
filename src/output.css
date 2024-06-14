@@ -767,6 +767,10 @@ video {
   transition-duration: 150ms;
 }
 
+html {
+  scroll-behavior: smooth !important;
+}
+
 .svg:hover{
   cursor:pointer;
 }
