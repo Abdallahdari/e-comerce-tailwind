@@ -45,3 +45,8 @@ transform:translate(-50%)
  cursor:pointer;
 }
 
+@media(max-width: 640px){
+ .Headphones{
+    grid-template-columns:repeat(2,1fr)
+ }   
+}
